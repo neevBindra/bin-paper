@@ -1,1 +1,2 @@
-# bin-paper
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
